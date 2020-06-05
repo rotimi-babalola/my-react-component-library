@@ -1,14 +1,27 @@
 {
   "workbench.colorCustomizations": {
-    "titleBar.activeForeground": "#ffffff",
-    "titleBar.inactiveForeground": "#ffffff",
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.inactiveForeground": "#e7e7e799",
     "titleBar.activeBackground": "#6120f7",
-    "titleBar.inactiveBackground": "#4f08f3"
+    "titleBar.inactiveBackground": "#6120f799",
+    "activityBar.activeBackground": "#8451f9",
+    "activityBar.activeBorder": "#fa9265",
+    "activityBar.background": "#8451f9",
+    "activityBar.foreground": "#e7e7e7",
+    "activityBar.inactiveForeground": "#e7e7e799",
+    "activityBarBadge.background": "#fa9265",
+    "activityBarBadge.foreground": "#15202b",
+    "statusBar.background": "#6120f7",
+    "statusBar.border": "#6120f7",
+    "statusBar.foreground": "#e7e7e7",
+    "statusBarItem.hoverBackground": "#8451f9",
+    "titleBar.border": "#6120f7"
   },
   "editor.formatOnSave": true,
   "prettier.printWidth": 80,
   "prettier.singleQuote": true,
   "prettier.trailingComma": "es5",
   "files.insertFinalNewline": true,
-  "editor.tabSize": 2
+  "editor.tabSize": 2,
+  "peacock.color": "#6120f7"
 }
